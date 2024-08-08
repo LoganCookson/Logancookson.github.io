@@ -1,0 +1,46 @@
+# _config.yml
+
+# Site settings
+title: Logan's Personal Site
+description: I don’t know 
+url: "https://logancookson.github.io"
+baseurl: "/" # the subpath of your site, e.g., /blog
+
+# Author settings
+author:
+  name: Logan Cookson
+  email: logan@logangamesdaily.online
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+exclude:
+  - "README.md"
+  - "node_modules"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor"
+
+# Permalink structure
+permalink: /:categories/:year/:month/:day/:title.html
+
+# Enable pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Social media settings
+twitter_username: LGDYoutube
+github_username: An-Unnamed-Developer
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
