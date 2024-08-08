@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Theme settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 # Plugins
 plugins:
