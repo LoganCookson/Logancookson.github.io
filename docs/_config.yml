@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Theme settings
-theme: lanyon
+theme: cayman
 
 # Plugins
 plugins:
