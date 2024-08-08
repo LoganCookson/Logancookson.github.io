@@ -16,11 +16,11 @@ markdown: kramdown
 highlighter: rouge
 
 # Theme settings
-theme: minima
+theme: lanyon
 
 # Plugins
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-seo-tag
 
 # Build settings
