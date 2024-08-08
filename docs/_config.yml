@@ -2,7 +2,7 @@
 
 # Site settings
 title: Logan's Personal Site
-description: I don’t know 
+description: More personal stuff, like photos or maybe even blog posts in the future.
 url: "https://logancookson.github.io"
 baseurl: "/" # the subpath of your site, e.g., /blog
 
